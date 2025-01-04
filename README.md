@@ -1,9 +1,14 @@
 # 👋 Halo, Perkenalkan Saya **Elmo** 
 <br>
 
-Saya seorang **mahasiswa semester 5 Teknik Informatika** di Universitas Kristen Maranatha dengan minat mendalam dalam **pengembangan web** khususnya pada **full-stack development**. Saya senang mengeksplorasi teknologi terbaru seperti **React**, **Vue.js**, **Laravel**, dan lainnya untuk menciptakan antarmuka pengguna yang **modern**, **responsif**, dan **fungsional**.
+- 🎓 **Informatics Student**, 5th Semester at Maranatha Christian University  
+- 💻 Passionate about **Full-Stack Web Development**  
+- 🚀 Exploring modern technologies 
+- 🌱 Currently learning
 
-Saya memiliki **orientasi pada inovasi** dan semangat belajar yang tinggi untuk mengikuti perkembangan tren teknologi di industri pengembangan web. Saat ini, saya sedang fokus mempelajari **React.js**, **Vue.js**, dan **Next.js**.
+  ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) 
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
 
 <br>
 
@@ -55,17 +60,6 @@ Saya memiliki **orientasi pada inovasi** dan semangat belajar yang tinggi untuk 
 
 <br>
 
-🌱 **Saat Ini Saya Sedang Belajar:**
-
-![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
-
-<br>
-
----
-
-<br>
 
 📬 **Hubungi Saya**
 
