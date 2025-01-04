@@ -1,4 +1,4 @@
-# 👋 Oh hello my name, **Elmo** 
+# 👋 Oh hellow my name, **Elmo** 
 <br>
 
 - 🎓 **Informatics Student**, 5th Semester at Maranatha Christian University  
@@ -28,7 +28,7 @@
   ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
  
 
-- **Frameworks & Libraries***:  
+- **Frameworks & Libraries**:  
   ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) 
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
