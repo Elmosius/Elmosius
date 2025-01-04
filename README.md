@@ -21,6 +21,7 @@ Saya memiliki **orientasi pada inovasi** dan semangat belajar yang tinggi untuk 
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
   ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+ 
 
 - **Framework & Library**:  
   ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
@@ -31,10 +32,12 @@ Saya memiliki **orientasi pada inovasi** dan semangat belajar yang tinggi untuk 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) 
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
   ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 - **Database**:  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+  ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
 ---
 
