@@ -1,4 +1,4 @@
-# 👋 Halo, Perkenalkan Saya **Elmo** 
+# 👋 Oh hello my name, **Elmo** 
 <br>
 
 - 🎓 **Informatics Student**, 5th Semester at Maranatha Christian University  
@@ -16,9 +16,9 @@
 
 <br>
 
- 🔧 **Teknologi:**
+ 🔧 **Tech Stack:**
 
-- **Bahasa Pemrograman**:  
+- **Languages**:  
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
@@ -28,7 +28,7 @@
   ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
  
 
-- **Framework & Library**:  
+- **Frameworks & Libraries***:  
   ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) 
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
@@ -39,7 +39,7 @@
   ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-- **Database**:  
+- **Databases**:  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
   ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
@@ -48,7 +48,7 @@
 
 <br>
 
-📊 **Statistik:**
+📊 **Stats:**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmosius&show_icons=true&theme=light" width="40%" alt="Statistik GitHub Elmo" />
@@ -61,7 +61,7 @@
 <br>
 
 
-📬 **Hubungi Saya**
+📬 **Contact Me**
 
 - ✉️ Email: [elmosius18@gmail.com](mailto:elmosius18@gmail.com)
 - 💼 LinkedIn: [Elmosius Suli](https://www.linkedin.com/in/elmosius-suli-9498b02a0/)
