@@ -1,14 +1,13 @@
 # 👋 Oh hellow my name, **Elmo** 
 <br>
 
-- 🎓 **Informatics Student**, 5th Semester at Maranatha Christian University  
+- 🎓 **Informatics Student**, 6th Semester at Maranatha Christian University  
 - 💻 Passionate about **Full-Stack Web Development**  
 - 🚀 Exploring modern technologies 
 - 🌱 Currently learning
 
   ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) 
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
 
 <br>
 
