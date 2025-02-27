@@ -51,8 +51,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmosius&show_icons=true&theme=light" width="40%" alt="Statistik GitHub Elmo" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elmosius&theme=light" width="42%" alt="Streak Statistik Elmo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmosius&layout=compact&theme=light" width="35%" alt="Most Used Languages" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=elmosius&theme=vue&hide_border=true" width="42%" alt="Streak Statistik Elmo" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmosius&layout=compact&theme=light" width="30.5%" alt="Most Used Languages" />
 </p>
 
 ---
