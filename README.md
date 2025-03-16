@@ -8,6 +8,7 @@
 
   ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
 
 <br>
 
@@ -18,13 +19,14 @@
  🔧 **Tech Stack:**
 
 - **Programming & Markup Languages**:  
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
   ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
  
 
 - **Frameworks & Libraries**:  
