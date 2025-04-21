@@ -37,8 +37,13 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) 
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
-  ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white) 
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+  ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
+  ![Hapi](https://img.shields.io/badge/Hapi.js-F7DF1E?logo=javascript&logoColor=black) 
+  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black) 
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) 
+
 
 - **Databases**:  
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
