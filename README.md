@@ -1,15 +1,9 @@
-# 👋 Oh hellow my name, **Elmo** 
+# 👋 Oh hellow my name, **Elmo**
 <br>
 
-- 🎓 **Informatics Student**, 6th Semester at Maranatha Christian University  
-- 💻 Passionate about **Full-Stack Web Development**  
-- 🚀 Exploring modern technologies 
-- 🌱 Currently learning
-  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  ![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?logo=alibabacloud&logoColor=white)
-  ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
+- 🎓 **Informatics Student**, 6th Semester at Maranatha Christian University.
+- 💻 Passionate about **Full-Stack Web Development**.
+- 🚀 Currently exploring **Cloud Technologies (AWS, Cloudflare)** and **DevOps tools (Docker, Nginx)**, while continuously honing my skills in the **React & Vue** ecosystems.
 
 <br>
 
@@ -17,49 +11,67 @@
 
 <br>
 
- 🔧 **Tech Stack:**
+### 🔧 Tech Stack & Tools
 
-- **Programming & Markup Languages**:  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
- 
+- **Programming & Markup Languages**:
+  <br>
+  <img width="45" src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript">
+  <img width="45" src="https://skillicons.dev/icons?i=javascript&theme=light" alt="JavaScript">
+  <img width="45" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart">
+  <img width="45" src="https://skillicons.dev/icons?i=java&theme=light" alt="Java">
+  <img width="45" src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS">
+  <img width="45" src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML">
+  <img width="45" src="https://skillicons.dev/icons?i=python&theme=light" alt="Python">
+  <img width="45" src="https://skillicons.dev/icons?i=php&theme=light" alt="PHP">
+  <br>
 
-- **Frameworks & Libraries**:  
-  ![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) 
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) 
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) 
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) 
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) 
-  ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-  ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) 
-  ![Hapi](https://img.shields.io/badge/Hapi.js-F7DF1E?logo=javascript&logoColor=black) 
-  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black) 
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) 
+- **Frameworks & Libraries**:
+  <br>
+  <img width="45" src="https://skillicons.dev/icons?i=react&theme=light" alt="React">
+  <img width="45" src="https://skillicons.dev/icons?i=vue&theme=light" alt="Vue">
+  <img width="45" src="https://skillicons.dev/icons?i=pinia&theme=light" alt="Pinia">
+  <img width="45" src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js">
+  <img width="45" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel">
+  <img width="45" src="https://skillicons.dev/icons?i=tailwindcss&theme=light" alt="Tailwind CSS">
+  <img width="45" src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js">
+  <img width="45" src="https://skillicons.dev/icons?i=flutter&theme=light" alt="Flutter">
+  <img width="45" src="https://skillicons.dev/icons?i=threejs&theme=light" alt="Three.js">
+  <img width="45" src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="Bootstrap">
+  <img width="45" src="https://skillicons.dev/icons?i=express&theme=light" alt="Express">
+  <img width="45" src="https://skillicons.dev/icons?i=django&theme=light" alt="Django">
+  <img width="45" src="https://skillicons.dev/icons?i=rabbitmq&theme=light" alt="Rabbitmq">
+  <br>
+  <img width="45" src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask">
+  <img width="45" src="https://skillicons.dev/icons?i=fastapi&theme=light" alt="FastAPI">
+  <img width="45" src="https://skillicons.dev/icons?i=jest&theme=light" alt="Jest">
+  <img width="45" src="https://skillicons.dev/icons?i=jquery&theme=light" alt="Jquery">
+  <img width="45" src="https://skillicons.dev/icons?i=webpack&theme=light" alt="Webpack">
+  <img width="45" src="https://skillicons.dev/icons?i=vite&theme=light" alt="Vite">
+  <br>
 
+- **Databases**:
+  <br>
+  <img width="45" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL">
+  <img width="45" src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="Sqlite">
+  <img width="45" src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB">
+  <br>
 
-- **Databases**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-  ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+- **Cloud & DevOps Tools**:
+  <br>
+  <img width="45" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS">
+  <img width="45" src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker">
+  <img width="45" src="https://skillicons.dev/icons?i=cloudflare&theme=light" alt="Cloudflare">
+  <img width="45" src="https://skillicons.dev/icons?i=nginx&theme=light" alt="Nginx">
+  <br>
 
 ---
 
 <br>
 
-📊 **Stats:**
+### 📊 GitHub Stats & Trophies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmosius&show_icons=true&theme=light" width="40%" alt="Statistik GitHub Elmo" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=elmosius&theme=vue&hide_border=true" width="42%" alt="Streak Statistik Elmo" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmosius&layout=compact&theme=light" width="30.5%" alt="Most Used Languages" />
 </p>
 
@@ -68,7 +80,7 @@
 <br>
 
 
-📬 **Contact Me**
+### 📬 Connect with Me
 
 - ✉️ Email: [elmosius18@gmail.com](mailto:elmosius18@gmail.com)
 - 💼 LinkedIn: [Elmosius Suli](https://www.linkedin.com/in/elmosius-suli-9498b02a0/)
