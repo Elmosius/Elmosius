@@ -68,7 +68,7 @@
 
 <br>
 
-### 📊 GitHub Stats & Trophies
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elmosius&show_icons=true&theme=light" width="40%" alt="Statistik GitHub Elmo" />
