@@ -1,11 +1,9 @@
 # 👋 Oh hellow my name, **Elmo**
-<br>
-
+ <img src="https://www.codewars.com/users/Elmosius/badges/micro"/> 
+  
 - 🎓 **Informatics Student**, 6th Semester at Maranatha Christian University.
 - 💻 Passionate about **Full-Stack Web Development**.
 - 🚀 Currently exploring **Cloud Technologies (AWS, Cloudflare)** and **DevOps tools (Docker, Nginx)**, while continuously honing my skills in the **React & Vue** ecosystems.
-
-<br>
 
 ---
 
