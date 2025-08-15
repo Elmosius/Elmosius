@@ -1,5 +1,5 @@
 # 👋 Oh hellow my name, **Elmo**
- <img src="https://www.codewars.com/users/Elmosius/badges/micro"/> 
+ [<img src="https://www.codewars.com/users/Elmosius/badges/micro"/> ](https://www.codewars.com/users/Elmosius)
   
 - 🎓 **Informatics Student**, 6th Semester at Maranatha Christian University.
 - 💻 Passionate about **Full-Stack Web Development**.
