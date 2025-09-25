@@ -2,8 +2,8 @@
  [<img src="https://www.codewars.com/users/Elmosius/badges/micro"/> ](https://www.codewars.com/users/Elmosius)
   
 - 🎓 **Informatics Student**, Undergraduate at Maranatha Christian University.
-- 💻 Passionate about **Full-Stack Web Development** || **Front-End Web Development**.
-- 🚀 Currently exploring **Cloud Technologies (AWS, Cloudflare)** and **DevOps tools (Docker, Nginx)**, while continuously honing my skills in the **React & Vue** ecosystems.
+- 💻 Passionate about **Front-End Web Development**.
+- 🚀 Currently exploring **Cloud Technologies (AWS, Cloudflare)**, **DevOps tools (Docker, Nginx)**, and diving into **GSAP animations**, while continuously honing my skills in the **React & Vue** ecosystems.
 
 ---
 
@@ -13,6 +13,7 @@
 
 - **Programming & Markup Languages**:
   <br>
+  <img width="45" src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin">
   <img width="45" src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript">
   <img width="45" src="https://skillicons.dev/icons?i=javascript&theme=light" alt="JavaScript">
   <img width="45" src="https://skillicons.dev/icons?i=dart&theme=light" alt="Dart">
