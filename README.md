@@ -3,7 +3,7 @@
   
 - 🎓 **Informatics Student**, Undergraduate at Maranatha Christian University.
 - 💻 Passionate about **Front-End Web Development**.
-- 🚀 Currently exploring **Cloud Technologies (AWS, Cloudflare)**, **DevOps tools (Docker, Nginx)**, and diving into **GSAP animations**, while continuously honing my skills in the **React & Vue** ecosystems.
+- 🚀 Currently exploring **Cloud Technologies**, **DevOps tools**, and diving into **GSAP animations**, while continuously honing my skills in the **React & Vue** ecosystems.
 
 ---
 
@@ -57,6 +57,7 @@
 
 - **Cloud & DevOps Tools**:
   <br>
+  <img width="45" src="https://skillicons.dev/icons?i=kubernetes&theme=light" alt="Kubernetes">
   <img width="45" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS">
   <img width="45" src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker">
   <img width="45" src="https://skillicons.dev/icons?i=cloudflare&theme=light" alt="Cloudflare">
