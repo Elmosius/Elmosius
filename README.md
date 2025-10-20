@@ -5,6 +5,8 @@
 - 💻 Passionate about **Front-End Web Development**.
 - 🚀 Currently exploring **Cloud Technologies**, **DevOps tools**, and diving into **GSAP animations**, while continuously honing my skills in the **React & Vue** ecosystems.
 
+<br/>
+
 ---
 
 <br>
@@ -64,21 +66,10 @@
   <img width="45" src="https://skillicons.dev/icons?i=nginx&theme=light" alt="Nginx">
   <br>
 
----
-
-<br>
-
-### 📊 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmosius&show_icons=true&theme=light" width="40%" alt="Statistik GitHub Elmo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmosius&layout=compact&theme=light" width="30.5%" alt="Most Used Languages" />
-</p>
+<br/>
 
 ---
-
-<br>
-
+<br/>
 
 ### 📬 Connect with Me
 
