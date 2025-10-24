@@ -28,6 +28,7 @@
 
 - **Frameworks & Libraries**:
   <br>
+  <img width="45" src="https://skillicons.dev/icons?i=bun&theme=light" alt="Bun">
   <img width="45" src="https://skillicons.dev/icons?i=react&theme=light" alt="React">
   <img width="45" src="https://skillicons.dev/icons?i=vue&theme=light" alt="Vue">
   <img width="45" src="https://skillicons.dev/icons?i=pinia&theme=light" alt="Pinia">
