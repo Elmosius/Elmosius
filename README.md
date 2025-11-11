@@ -28,11 +28,11 @@
 
 - **Frameworks & Libraries**:
   <br>
+  <img width="45" src="https://skillicons.dev/icons?i=svelte&theme=light" alt="Svelte">
   <img width="45" src="https://skillicons.dev/icons?i=bun&theme=light" alt="Bun">
   <img width="45" src="https://skillicons.dev/icons?i=react&theme=light" alt="React">
   <img width="45" src="https://skillicons.dev/icons?i=vue&theme=light" alt="Vue">
   <img width="45" src="https://skillicons.dev/icons?i=pinia&theme=light" alt="Pinia">
-  <img width="45" src="https://skillicons.dev/icons?i=nextjs&theme=light" alt="Next.js">
   <img width="45" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel">
   <img width="45" src="https://skillicons.dev/icons?i=tailwindcss&theme=light" alt="Tailwind CSS">
   <img width="45" src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js">
@@ -41,11 +41,10 @@
   <img width="45" src="https://skillicons.dev/icons?i=bootstrap&theme=light" alt="Bootstrap">
   <img width="45" src="https://skillicons.dev/icons?i=express&theme=light" alt="Express">
   <img width="45" src="https://skillicons.dev/icons?i=django&theme=light" alt="Django">
-  <img width="45" src="https://skillicons.dev/icons?i=rabbitmq&theme=light" alt="Rabbitmq">
   <br>
+  <img width="45" src="https://skillicons.dev/icons?i=pug&theme=light" alt="Pug">
   <img width="45" src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask">
   <img width="45" src="https://skillicons.dev/icons?i=fastapi&theme=light" alt="FastAPI">
-  <img width="45" src="https://skillicons.dev/icons?i=jest&theme=light" alt="Jest">
   <img width="45" src="https://skillicons.dev/icons?i=jquery&theme=light" alt="Jquery">
   <img width="45" src="https://skillicons.dev/icons?i=webpack&theme=light" alt="Webpack">
   <img width="45" src="https://skillicons.dev/icons?i=vite&theme=light" alt="Vite">
@@ -66,6 +65,7 @@
   <img width="45" src="https://skillicons.dev/icons?i=cloudflare&theme=light" alt="Cloudflare">
   <img width="45" src="https://skillicons.dev/icons?i=nginx&theme=light" alt="Nginx">
   <br>
+
 
 <br/>
 
