@@ -11,7 +11,7 @@
 
 <br>
 
-### 🔧 Tech Stack & Tools
+### Tech Stack & Tools
 
 - **Programming & Markup Languages**:
   <br>
@@ -74,5 +74,5 @@
 
 ### 📬 Connect with Me
 
-- ✉️ Email: [elmosius18@gmail.com](mailto:elmosius18@gmail.com)
-- 💼 LinkedIn: [Elmosius Suli](https://www.linkedin.com/in/elmosius-suli-9498b02a0/)
+- Email: [elmosius18@gmail.com](mailto:elmosius18@gmail.com)
+- LinkedIn: [Elmosius Suli](https://www.linkedin.com/in/elmosius-suli-9498b02a0/)
