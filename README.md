@@ -15,6 +15,7 @@
 
 - **Programming & Markup Languages**:
   <br>
+  <img width="45" src="https://skillicons.dev/icons?i=swift&theme=light" alt="Swift">
   <img width="45" src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin">
   <img width="45" src="https://skillicons.dev/icons?i=typescript&theme=light" alt="TypeScript">
   <img width="45" src="https://skillicons.dev/icons?i=javascript&theme=light" alt="JavaScript">
