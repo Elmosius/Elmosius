@@ -3,7 +3,7 @@
   
 - 🎓 **Informatics Student**, Undergraduate at Maranatha Christian University.
 - 💻 Passionate about **Front-End Web Development**.
-- 🚀 Currently exploring **Cloud Technologies**, **DevOps tools**, and diving into **GSAP animations**, while continuously honing my skills in the **React & Vue** ecosystems.
+- 🚀 Currently exploring **DevOps** and **Mobile Development**, while continuously sharpening my skills in **Frontend Engineering**.
 
 <br/>
 
