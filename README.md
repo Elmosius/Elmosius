@@ -29,9 +29,11 @@
 
 - **Frameworks & Libraries**:
   <br>
+  <img width="45" src="https://skillicons.dev/icons?i=nuxt&theme=light" alt="Nuxt">
   <img width="45" src="https://skillicons.dev/icons?i=svelte&theme=light" alt="Svelte">
   <img width="45" src="https://skillicons.dev/icons?i=bun&theme=light" alt="Bun">
   <img width="45" src="https://skillicons.dev/icons?i=react&theme=light" alt="React">
+    <img width="45" src="https://skillicons.dev/icons?i=vuetify&theme=light" alt="Vuetify">
   <img width="45" src="https://skillicons.dev/icons?i=vue&theme=light" alt="Vue">
   <img width="45" src="https://skillicons.dev/icons?i=pinia&theme=light" alt="Pinia">
   <img width="45" src="https://skillicons.dev/icons?i=laravel&theme=light" alt="Laravel">
@@ -53,6 +55,7 @@
 
 - **Databases**:
   <br>
+  <img width="45" src="https://skillicons.dev/icons?i=postgresql&theme=light" alt="PostgreSQL">
   <img width="45" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL">
   <img width="45" src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="Sqlite">
   <img width="45" src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB">
@@ -60,6 +63,7 @@
 
 - **Cloud & DevOps Tools**:
   <br>
+  <img width="45" src="https://skillicons.dev/icons?i=firebase&theme=light" alt="Firebase">
   <img width="45" src="https://skillicons.dev/icons?i=kubernetes&theme=light" alt="Kubernetes">
   <img width="45" src="https://skillicons.dev/icons?i=aws&theme=light" alt="AWS">
   <img width="45" src="https://skillicons.dev/icons?i=docker&theme=light" alt="Docker">
